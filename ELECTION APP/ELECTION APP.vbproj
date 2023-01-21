@@ -1,0 +1,819 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F22AE27F-2618-40A5-AD4F-8914C12FA1D3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>election_app.My.MyApplication</StartupObject>
+    <RootNamespace>election_app</RootNamespace>
+    <AssemblyName>FEMOG SUITE</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>D:\rich\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Background</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <UpdateUrl>http://localhost/ELECTION APP/</UpdateUrl>
+    <SupportUrl>http://www.facebook.com/rpsystemsinc</SupportUrl>
+    <ProductName>FEMOG SUITE</ProductName>
+    <PublisherName>Richard Aikins</PublisherName>
+    <SuiteName>Office Tools</SuiteName>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>13</ApplicationRevision>
+    <ApplicationVersion>2.7.2.%2a</ApplicationVersion>
+    <UseApplicationTrust>true</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <BootstrapperComponentsLocation>Relative</BootstrapperComponentsLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>FEMOG SUITE.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>FEMOG SUITE.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>3873C9F38842FB21184E4D56A45F87B34F7E20BE</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>ELECTION APP_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>ELECTION APP_TemporaryKey.pfx</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>thumbnail_256px%281%29.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>FEMOG SUITE.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>FEMOG SUITE.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Activities" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data.SqlServerCe, Version=3.5.1.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.ServiceModel.Activities" />
+    <Reference Include="System.ServiceModel.Channels" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="WindowsApplication1" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="admin1.Designer.vb">
+      <DependentUpon>admin1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="admin1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="DHP2.Designer.vb">
+      <DependentUpon>DHP2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DHP2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DHP3.Designer.vb">
+      <DependentUpon>DHP3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DHP3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialog1.Designer.vb">
+      <DependentUpon>Dialog1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Dialog1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ENT3.Designer.vb">
+      <DependentUpon>ENT3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ENT3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4.Designer.vb">
+      <DependentUpon>Form4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form5.Designer.vb">
+      <DependentUpon>Form5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form6.Designer.vb">
+      <DependentUpon>Form6.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form6.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form7.Designer.vb">
+      <DependentUpon>Form7.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form7.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form8.Designer.vb">
+      <DependentUpon>Form8.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form8.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form9.Designer.vb">
+      <DependentUpon>Form9.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form9.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSerialisor.vb" />
+    <Compile Include="GNDP1.Designer.vb">
+      <DependentUpon>GNDP1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GNDP1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GNDP2.Designer.vb">
+      <DependentUpon>GNDP2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GNDP2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module2.vb" />
+    <Compile Include="mdhp2.vb" />
+    <Compile Include="regDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>regDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="regDataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>regDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="regDataSet2.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>regDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="regDataSet3.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>regDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="regDataSet4.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>regDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SPDP1.Designer.vb">
+      <DependentUpon>SPDP1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SPDP1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SPDP2.Designer.vb">
+      <DependentUpon>SPDP2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SPDP2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VCDHP2.Designer.vb">
+      <DependentUpon>VCDHP2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VCDHP2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VCDHP3.Designer.vb">
+      <DependentUpon>VCDHP3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VCDHP3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VCENT3.Designer.vb">
+      <DependentUpon>VCENT3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VCENT3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VCGNDP1.Designer.vb">
+      <DependentUpon>VCGNDP1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VCGNDP1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VCGNDP2.Designer.vb">
+      <DependentUpon>VCGNDP2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VCGNDP2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VCSPDP1.Designer.vb">
+      <DependentUpon>VCSPDP1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VCSPDP1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VCSPDP2.Designer.vb">
+      <DependentUpon>VCSPDP2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VCSPDP2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ve.Designer.vb">
+      <DependentUpon>ve.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ve.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="Settings.vb" />
+    <Compile Include="VCM.Designer.vb">
+      <DependentUpon>VCM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VCM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="sdss1.Designer.vb">
+      <DependentUpon>sdss1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="sdss1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="spscrn1.Designer.vb">
+      <DependentUpon>spscrn1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="spscrn1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vc10.Designer.vb">
+      <DependentUpon>vc10.vb</DependentUpon>
+    </Compile>
+    <Compile Include="vc10.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vc11.Designer.vb">
+      <DependentUpon>vc11.vb</DependentUpon>
+    </Compile>
+    <Compile Include="vc11.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vc12.Designer.vb">
+      <DependentUpon>vc12.vb</DependentUpon>
+    </Compile>
+    <Compile Include="vc12.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vc3.Designer.vb">
+      <DependentUpon>vc3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="vc3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vc4.Designer.vb">
+      <DependentUpon>vc4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="vc4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vc5.Designer.vb">
+      <DependentUpon>vc5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="vc5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vc6.Designer.vb">
+      <DependentUpon>vc6.vb</DependentUpon>
+    </Compile>
+    <Compile Include="vc6.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vc7.Designer.vb">
+      <DependentUpon>vc7.vb</DependentUpon>
+    </Compile>
+    <Compile Include="vc7.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vc8.Designer.vb">
+      <DependentUpon>vc8.vb</DependentUpon>
+    </Compile>
+    <Compile Include="vc8.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vc9.Designer.vb">
+      <DependentUpon>vc9.vb</DependentUpon>
+    </Compile>
+    <Compile Include="vc9.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="voter details.Designer.vb">
+      <DependentUpon>voter details.vb</DependentUpon>
+    </Compile>
+    <Compile Include="voter details.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vp1.Designer.vb">
+      <DependentUpon>vp1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="vp1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vp2.Designer.vb">
+      <DependentUpon>vp2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="vp2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vp3.Designer.vb">
+      <DependentUpon>vp3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="vp3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vp4.Designer.vb">
+      <DependentUpon>vp4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="vp4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vp5.Designer.vb">
+      <DependentUpon>vp5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="vp5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vp6.Designer.vb">
+      <DependentUpon>vp6.vb</DependentUpon>
+    </Compile>
+    <Compile Include="vp6.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vp7.Designer.vb">
+      <DependentUpon>vp7.vb</DependentUpon>
+    </Compile>
+    <Compile Include="vp7.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vp8.Designer.vb">
+      <DependentUpon>vp8.vb</DependentUpon>
+    </Compile>
+    <Compile Include="vp8.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vp9.Designer.vb">
+      <DependentUpon>vp9.vb</DependentUpon>
+    </Compile>
+    <Compile Include="vp9.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vtc.Designer.vb">
+      <DependentUpon>vtc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="vtc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="admin1.resx">
+      <DependentUpon>admin1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DHP2.resx">
+      <DependentUpon>DHP2.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DHP3.resx">
+      <DependentUpon>DHP3.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialog1.resx">
+      <DependentUpon>Dialog1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ENT3.resx">
+      <DependentUpon>ENT3.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4.resx">
+      <DependentUpon>Form4.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form5.resx">
+      <DependentUpon>Form5.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form6.resx">
+      <DependentUpon>Form6.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form7.resx">
+      <DependentUpon>Form7.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form8.resx">
+      <DependentUpon>Form8.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form9.resx">
+      <DependentUpon>Form9.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GNDP1.resx">
+      <DependentUpon>GNDP1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GNDP2.resx">
+      <DependentUpon>GNDP2.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SPDP1.resx">
+      <DependentUpon>SPDP1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SPDP2.resx">
+      <DependentUpon>SPDP2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VCDHP2.resx">
+      <DependentUpon>VCDHP2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VCDHP3.resx">
+      <DependentUpon>VCDHP3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VCENT3.resx">
+      <DependentUpon>VCENT3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VCGNDP1.resx">
+      <DependentUpon>VCGNDP1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VCGNDP2.resx">
+      <DependentUpon>VCGNDP2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VCSPDP1.resx">
+      <DependentUpon>VCSPDP1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VCSPDP2.resx">
+      <DependentUpon>VCSPDP2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ve.resx">
+      <DependentUpon>ve.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VCM.resx">
+      <DependentUpon>VCM.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sdss1.resx">
+      <DependentUpon>sdss1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="spscrn1.resx">
+      <DependentUpon>spscrn1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vc10.resx">
+      <DependentUpon>vc10.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vc11.resx">
+      <DependentUpon>vc11.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vc12.resx">
+      <DependentUpon>vc12.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vc3.resx">
+      <DependentUpon>vc3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vc4.resx">
+      <DependentUpon>vc4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vc5.resx">
+      <DependentUpon>vc5.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vc6.resx">
+      <DependentUpon>vc6.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vc7.resx">
+      <DependentUpon>vc7.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vc8.resx">
+      <DependentUpon>vc8.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vc9.resx">
+      <DependentUpon>vc9.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="voter details.resx">
+      <DependentUpon>voter details.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vp1.resx">
+      <DependentUpon>vp1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vp2.resx">
+      <DependentUpon>vp2.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vp3.resx">
+      <DependentUpon>vp3.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vp4.resx">
+      <DependentUpon>vp4.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vp5.resx">
+      <DependentUpon>vp5.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vp6.resx">
+      <DependentUpon>vp6.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vp7.resx">
+      <DependentUpon>vp7.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vp8.resx">
+      <DependentUpon>vp8.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vp9.resx">
+      <DependentUpon>vp9.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vtc.resx">
+      <DependentUpon>vtc.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="eapp.snk" />
+    <None Include="ELECTION APP_TemporaryKey.pfx" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\DataSources\admin1.datasource" />
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.SQL.Server.Compact.3.5">
+      <Visible>False</Visible>
+      <ProductName>SQL Server Compact 3.5 SP2</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="myapp.snk" />
+    <None Include="nn.snk" />
+    <None Include="regDataSet.xsc">
+      <DependentUpon>regDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="regDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>regDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="regDataSet.xss">
+      <DependentUpon>regDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="regDataSet1.xsc">
+      <DependentUpon>regDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="regDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>regDataSet1.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="regDataSet1.xss">
+      <DependentUpon>regDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="regDataSet2.xsc">
+      <DependentUpon>regDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="regDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>regDataSet2.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="regDataSet2.xss">
+      <DependentUpon>regDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="regDataSet3.xsc">
+      <DependentUpon>regDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="regDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>regDataSet3.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="regDataSet3.xss">
+      <DependentUpon>regDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="regDataSet4.xsc">
+      <DependentUpon>regDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="regDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>regDataSet4.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="regDataSet4.xss">
+      <DependentUpon>regDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\THUMBNAIL.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="femog.ico" />
+    <None Include="Resources\THUMBNAILg.png" />
+    <Content Include="reg.sdf" />
+    <Content Include="sqlceca35.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sqlcecompact35.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sqlceer35EN.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sqlceme35.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sqlceoledb35.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sqlceqp35.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sqlcese35.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="thumbnail_256px%281%29.ico" />
+    <Content Include="thumbnail_256px.ico" />
+    <None Include="Resources\delete.png" />
+    <Content Include="Resources\minus.png" />
+    <None Include="Resources\minus1.png" />
+    <None Include="Resources\play.png" />
+    <Content Include="Resources\plus.png" />
+    <None Include="Resources\plus1.png" />
+    <Content Include="TextFile1.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="SSCE">
+      <Guid>{CE4AACFA-3CFD-4028-B2D9-F272314F07C8}</Guid>
+      <VersionMajor>3</VersionMajor>
+      <VersionMinor>5</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

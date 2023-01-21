@@ -1,0 +1,286 @@
+﻿>>>DESIGN
+>>FORM BORDERSTYLE= NONE
+*MINIMIZE BUTT
+*MAXIMIZE
+*CLOSE
+*HIDE
+>>> VOTE COUNTER
+>>SUB PANEL for aspirant selection
+>labels for names and vote count
+>>>VOTING PANEL
+
+>>>>CATEGORIES<<<<
+SRC PRESIDEBT
+MEN'S
+WOMEN'S
+WOCOM
+SEC
+TRES
+DHP
+ENTERPEE M
+ENTPEE W
+SPORTS M
+SPORTS W
+GENERAL M
+GENERAL W
+
+add this to vp children
+With ComboBox1
+            If .Text = "5" Then
+                Button7.Visible = False
+                Button6.Visible = True
+                Button5.Visible = True
+                Button4.Visible = True
+                Button3.Visible = True
+                Button2.Visible = True
+                TextBox6.Visible = False
+                TextBox5.Visible = True
+                TextBox4.Visible = True
+                TextBox3.Visible = True
+                TextBox2.Visible = True
+                TextBox1.Visible = True
+            ElseIf .Text = "4" Then
+                Button7.Visible = False
+                Button6.Visible = False
+                Button5.Visible = True
+                Button4.Visible = True
+                Button3.Visible = True
+                Button2.Visible = True
+                TextBox6.Visible = False
+                TextBox5.Visible = False
+                TextBox4.Visible = True
+                TextBox3.Visible = True
+                TextBox2.Visible = True
+                TextBox1.Visible = True
+            ElseIf .Text = "3" Then
+                Button7.Visible = False
+                Button6.Visible = False
+                Button5.Visible = False
+                Button4.Visible = True
+                Button3.Visible = True
+                Button2.Visible = True
+                TextBox6.Visible = False
+                TextBox5.Visible = False
+                TextBox4.Visible = False
+                TextBox3.Visible = True
+                TextBox2.Visible = True
+                TextBox1.Visible = True
+            ElseIf .Text = "2" Then
+                Button7.Visible = False
+                Button6.Visible = False
+                Button5.Visible = False
+                Button4.Visible = False
+                Button3.Visible = True
+                Button2.Visible = True
+                TextBox6.Visible = False
+                TextBox5.Visible = False
+                TextBox4.Visible = False
+                TextBox3.Visible = False
+                TextBox2.Visible = True
+                TextBox1.Visible = True
+            ElseIf .Text = "1" Then
+                Button7.Visible = False
+                Button6.Visible = False
+                Button5.Visible = False
+                Button4.Visible = False
+                Button3.Visible = False
+                Button2.Visible = True
+                TextBox6.Visible = False
+                TextBox5.Visible = False
+                TextBox4.Visible = False
+                TextBox3.Visible = False
+                TextBox2.Visible = False
+                TextBox1.Visible = True
+            End If
+        End With
+
+
+ With Form2.ComboBox1
+            If .Text = "5" Then
+                Label1.Visible = True
+                Label2.Visible = True
+                Label3.Visible = True
+                Label4.Visible = True
+                Label5.Visible = True
+                Label6.Visible = False
+            ElseIf .Text = "4" Then
+                Label1.Visible = True
+                Label2.Visible = True
+                Label3.Visible = True
+                Label4.Visible = True
+                Label5.Visible = False
+                Label6.Visible = False
+            ElseIf .Text = "3" Then
+                Label1.Visible = True
+                Label2.Visible = True
+                Label3.Visible = True
+                Label4.Visible = False
+                Label5.Visible = False
+                Label6.Visible = False
+            ElseIf .Text = "2" Then
+                Label1.Visible = True
+                Label2.Visible = True
+                Label3.Visible = False
+                Label4.Visible = False
+                Label5.Visible = False
+                Label6.Visible = False
+            ElseIf .Text = "1" Then
+                Label1.Visible = True
+                Label2.Visible = False
+                Label3.Visible = False
+                Label4.Visible = False
+                Label5.Visible = False
+                Label6.Visible = False
+            End If
+        End With
+
+>>ADD Linklabels to pics for image selection
+filter
+"JPEG(*.jpeg)|*.jpeg|Bitmap(*.bmp)|*.bmp|PNG(*.png)|*.png"
+
+>>>pic loading
+
+ Try
+            Dim pic As String = OpenFileDialog1.FileName
+            With OpenFileDialog1
+                .Title = "Choose Picture"
+                .Filter = "JPEG(*.jpg)|*.jpg|Bitmap(*.bmp)|*.bmp|PNG(*.png)|*.png"
+                .FileName = ""
+            End With
+            Dim kk As Integer = OpenFileDialog1.ShowDialog()
+            If kk <> DialogResult.Cancel Then
+                pic = OpenFileDialog1.FileName
+                PictureBox1.Image = Image.FromFile(pic)
+                OpenFileDialog1.Reset()
+            End If
+        Catch ex As Exception
+        End Try
+
+	>>>>>	all pic loading
+
+		Private Sub LinkLabel2_LinkClicked(ByVal sender As System.Object, ByVal e As System.Windows.Forms.LinkLabelLinkClickedEventArgs) Handles LinkLabel2.LinkClicked
+        Try
+            Dim pic As String = OpenFileDialog1.FileName
+            With OpenFileDialog1
+                .Title = "Choose Picture"
+                .Filter = "JPEG(*.jpg)|*.jpg|Bitmap(*.bmp)|*.bmp|PNG(*.png)|*.png"
+                .FileName = ""
+            End With
+            Dim kk As Integer = OpenFileDialog1.ShowDialog()
+            If kk <> DialogResult.Cancel Then
+                pic = OpenFileDialog1.FileName
+                PictureBox1.Image = Image.FromFile(pic)
+                OpenFileDialog1.Reset()
+            End If
+        Catch ex As Exception
+        End Try
+    End Sub
+
+    Private Sub LinkLabel3_LinkClicked(ByVal sender As System.Object, ByVal e As System.Windows.Forms.LinkLabelLinkClickedEventArgs) Handles LinkLabel3.LinkClicked
+        Try
+            Dim pic As String = OpenFileDialog1.FileName
+            With OpenFileDialog1
+                .Title = "Choose Picture"
+                .Filter = "JPEG(*.jpg)|*.jpg|Bitmap(*.bmp)|*.bmp|PNG(*.png)|*.png"
+                .FileName = ""
+            End With
+            Dim kk As Integer = OpenFileDialog1.ShowDialog()
+            If kk <> DialogResult.Cancel Then
+                pic = OpenFileDialog1.FileName
+                PictureBox2.Image = Image.FromFile(pic)
+                OpenFileDialog1.Reset()
+            End If
+        Catch ex As Exception
+        End Try
+    End Sub
+
+    Private Sub LinkLabel4_LinkClicked(ByVal sender As System.Object, ByVal e As System.Windows.Forms.LinkLabelLinkClickedEventArgs) Handles LinkLabel4.LinkClicked
+        Try
+            Dim pic As String = OpenFileDialog1.FileName
+            With OpenFileDialog1
+                .Title = "Choose Picture"
+                .Filter = "JPEG(*.jpg)|*.jpg|Bitmap(*.bmp)|*.bmp|PNG(*.png)|*.png"
+                .FileName = ""
+            End With
+            Dim kk As Integer = OpenFileDialog1.ShowDialog()
+            If kk <> DialogResult.Cancel Then
+                pic = OpenFileDialog1.FileName
+                PictureBox3.Image = Image.FromFile(pic)
+                OpenFileDialog1.Reset()
+            End If
+        Catch ex As Exception
+        End Try
+    End Sub
+
+    Private Sub LinkLabel5_LinkClicked(ByVal sender As System.Object, ByVal e As System.Windows.Forms.LinkLabelLinkClickedEventArgs) Handles LinkLabel5.LinkClicked
+        Try
+            Dim pic As String = OpenFileDialog1.FileName
+            With OpenFileDialog1
+                .Title = "Choose Picture"
+                .Filter = "JPEG(*.jpg)|*.jpg|Bitmap(*.bmp)|*.bmp|PNG(*.png)|*.png"
+                .FileName = ""
+            End With
+            Dim kk As Integer = OpenFileDialog1.ShowDialog()
+            If kk <> DialogResult.Cancel Then
+                pic = OpenFileDialog1.FileName
+                PictureBox4.Image = Image.FromFile(pic)
+                OpenFileDialog1.Reset()
+            End If
+        Catch ex As Exception
+        End Try
+    End Sub
+
+    Private Sub LinkLabel6_LinkClicked(ByVal sender As System.Object, ByVal e As System.Windows.Forms.LinkLabelLinkClickedEventArgs) Handles LinkLabel6.LinkClicked
+        Try
+            Dim pic As String = OpenFileDialog1.FileName
+            With OpenFileDialog1
+                .Title = "Choose Picture"
+                .Filter = "JPEG(*.jpg)|*.jpg|Bitmap(*.bmp)|*.bmp|PNG(*.png)|*.png"
+                .FileName = ""
+            End With
+            Dim kk As Integer = OpenFileDialog1.ShowDialog()
+            If kk <> DialogResult.Cancel Then
+                pic = OpenFileDialog1.FileName
+                PictureBox5.Image = Image.FromFile(pic)
+                OpenFileDialog1.Reset()
+            End If
+        Catch ex As Exception
+        End Try
+    End Sub
+
+    Private Sub LinkLabel7_LinkClicked(ByVal sender As System.Object, ByVal e As System.Windows.Forms.LinkLabelLinkClickedEventArgs) Handles LinkLabel7.LinkClicked
+        Try
+            Dim pic As String = OpenFileDialog1.FileName
+            With OpenFileDialog1
+                .Title = "Choose Picture"
+                .Filter = "JPEG(*.jpg)|*.jpg|Bitmap(*.bmp)|*.bmp|PNG(*.png)|*.png"
+                .FileName = ""
+            End With
+            Dim kk As Integer = OpenFileDialog1.ShowDialog()
+            If kk <> DialogResult.Cancel Then
+                pic = OpenFileDialog1.FileName
+                PictureBox6.Image = Image.FromFile(pic)
+                OpenFileDialog1.Reset()
+            End If
+        Catch ex As Exception
+        End Try
+    End Sub
+
+
+>>> 	LINK(CHOOSE PIC) VISIBILTY  _OFF
+
+	  LinkLabel2.Visible = False
+        LinkLabel3.Visible = False
+        LinkLabel4.Visible = False
+        LinkLabel5.Visible = False
+        LinkLabel6.Visible = False
+        LinkLabel7.Visible = False
+
+		VISIBILTY ON
+
+LinkLabel2.Visible = True
+        LinkLabel3.Visible = True
+        LinkLabel4.Visible = True
+        LinkLabel5.Visible = True
+        LinkLabel6.Visible = True
+        LinkLabel7.Visible = True

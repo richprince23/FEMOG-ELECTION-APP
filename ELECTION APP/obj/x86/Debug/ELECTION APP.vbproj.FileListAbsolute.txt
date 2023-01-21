@@ -1,0 +1,308 @@
+F:\Projects\ELECTION APP\ELECTION APP\bin\Debug\FEMOG SUITE.exe.config
+F:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\FEMOG SUITE.exe
+F:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\FEMOG SUITE.xml
+F:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\FEMOG SUITE.pdb
+F:\Projects\ELECTION APP\ELECTION APP\bin\Debug\FEMOG SUITE.exe.manifest
+F:\Projects\ELECTION APP\ELECTION APP\bin\Debug\FEMOG SUITE.application
+F:\Projects\ELECTION APP\ELECTION APP\bin\Debug\FEMOG SUITE.exe
+F:\Projects\ELECTION APP\ELECTION APP\bin\Debug\FEMOG SUITE.pdb
+F:\Projects\ELECTION APP\ELECTION APP\bin\Debug\FEMOG SUITE.xml
+F:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\FEMOG SUITE.TrustInfo.xml
+F:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\FEMOG SUITE.exe.manifest
+F:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\FEMOG SUITE.application
+F:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.admin1.resources
+F:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Dialog1.resources
+F:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Form1.resources
+F:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Form2.resources
+F:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Form3.resources
+F:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Form4.resources
+F:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Form5.resources
+F:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Form6.resources
+F:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Form7.resources
+F:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Form8.resources
+F:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Form9.resources
+F:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.ve.resources
+F:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.VCM.resources
+F:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.LoginForm1.resources
+F:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Resources.resources
+F:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.sdss1.resources
+F:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.spscrn1.resources
+F:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc1.resources
+F:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc10.resources
+F:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc11.resources
+F:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc12.resources
+F:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc2.resources
+F:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc3.resources
+F:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc4.resources
+F:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc5.resources
+F:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc6.resources
+F:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc7.resources
+F:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc8.resources
+F:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc9.resources
+F:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vp1.resources
+F:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vp2.resources
+F:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vp3.resources
+F:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vp4.resources
+F:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vp5.resources
+F:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vp6.resources
+F:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vp7.resources
+F:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vp8.resources
+F:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vp9.resources
+D:\Projects\ELECTION APP\ELECTION APP\bin\Debug\FEMOG SUITE.exe.config
+D:\Projects\ELECTION APP\ELECTION APP\bin\Debug\FEMOG SUITE.exe.manifest
+D:\Projects\ELECTION APP\ELECTION APP\bin\Debug\FEMOG SUITE.application
+D:\Projects\ELECTION APP\ELECTION APP\bin\Debug\FEMOG SUITE.exe
+D:\Projects\ELECTION APP\ELECTION APP\bin\Debug\FEMOG SUITE.pdb
+D:\Projects\ELECTION APP\ELECTION APP\bin\Debug\FEMOG SUITE.xml
+D:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.admin1.resources
+D:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Dialog1.resources
+D:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Form1.resources
+D:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Form2.resources
+D:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Form3.resources
+D:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Form4.resources
+D:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Form5.resources
+D:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Form6.resources
+D:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Form7.resources
+D:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Form8.resources
+D:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Form9.resources
+D:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.ve.resources
+D:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.VCM.resources
+D:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.LoginForm1.resources
+D:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Resources.resources
+D:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.sdss1.resources
+D:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.spscrn1.resources
+D:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc1.resources
+D:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc10.resources
+D:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc11.resources
+D:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc12.resources
+D:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc2.resources
+D:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc3.resources
+D:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc4.resources
+D:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc5.resources
+D:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc6.resources
+D:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc7.resources
+D:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc8.resources
+D:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc9.resources
+D:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vp1.resources
+D:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vp2.resources
+D:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vp3.resources
+D:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vp4.resources
+D:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vp5.resources
+D:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vp6.resources
+D:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vp7.resources
+D:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vp8.resources
+D:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vp9.resources
+D:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\FEMOG SUITE.TrustInfo.xml
+D:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\FEMOG SUITE.exe.manifest
+D:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\FEMOG SUITE.application
+D:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\FEMOG SUITE.exe
+D:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\FEMOG SUITE.xml
+D:\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\FEMOG SUITE.pdb
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\bin\Debug\FEMOG SUITE.exe.config
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\FEMOG SUITE.exe
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\FEMOG SUITE.xml
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\FEMOG SUITE.pdb
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\bin\Debug\FEMOG SUITE.exe.manifest
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\bin\Debug\FEMOG SUITE.application
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\bin\Debug\FEMOG SUITE.exe
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\bin\Debug\FEMOG SUITE.pdb
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\bin\Debug\FEMOG SUITE.xml
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.admin1.resources
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Dialog1.resources
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Form1.resources
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Form2.resources
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Form3.resources
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Form4.resources
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Form5.resources
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Form6.resources
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Form7.resources
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Form8.resources
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Form9.resources
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.ve.resources
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.VCM.resources
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.LoginForm1.resources
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Resources.resources
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.sdss1.resources
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.spscrn1.resources
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc1.resources
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc10.resources
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc11.resources
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc12.resources
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc2.resources
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc3.resources
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc4.resources
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc5.resources
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc6.resources
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc7.resources
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc8.resources
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc9.resources
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vp1.resources
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vp2.resources
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vp3.resources
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vp4.resources
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vp5.resources
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vp6.resources
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vp7.resources
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vp8.resources
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vp9.resources
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\FEMOG SUITE.TrustInfo.xml
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\FEMOG SUITE.exe.manifest
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\FEMOG SUITE.application
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.DHP2.resources
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.DHP3.resources
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.ENT3.resources
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.GNDP1.resources
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.GNDP2.resources
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.SPDP1.resources
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.SPDP2.resources
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.VCDHP2.resources
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.VCENT3.resources
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.VCGNDP1.resources
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.VCGNDP2.resources
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.VCSPDP1.resources
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.VCSPDP2.resources
+C:\doc\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.VCDHP3.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\bin\Debug\FEMOG SUITE.exe.config
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\bin\Debug\FEMOG SUITE.exe.manifest
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\bin\Debug\FEMOG SUITE.application
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\bin\Debug\FEMOG SUITE.exe
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\bin\Debug\FEMOG SUITE.pdb
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\bin\Debug\FEMOG SUITE.xml
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.admin1.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.DHP2.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.DHP3.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Dialog1.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.ENT3.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Form1.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Form2.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Form3.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Form4.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Form5.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Form6.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Form7.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Form8.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Form9.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.GNDP1.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.GNDP2.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.SPDP1.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.SPDP2.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.VCDHP2.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.VCDHP3.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.VCENT3.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.VCGNDP1.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.VCGNDP2.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.VCSPDP1.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.VCSPDP2.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.ve.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.VCM.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.LoginForm1.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Resources.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.sdss1.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.spscrn1.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc1.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc10.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc11.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc12.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc2.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc3.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc4.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc5.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc6.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc7.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc8.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc9.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vp1.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vp2.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vp3.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vp4.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vp5.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vp6.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vp7.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vp8.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vp9.resources
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\ELECTION APP.vbproj.GenerateResource.Cache
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\FEMOG SUITE.TrustInfo.xml
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\FEMOG SUITE.exe.manifest
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\FEMOG SUITE.application
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\FEMOG SUITE.exe
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\FEMOG SUITE.xml
+C:\Users\gabi\Documents\Visual Studio 2010\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\FEMOG SUITE.pdb
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\bin\Debug\FEMOG SUITE.exe.config
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\bin\Debug\FEMOG SUITE.exe.manifest
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\bin\Debug\FEMOG SUITE.application
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\bin\Debug\FEMOG SUITE.exe
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\bin\Debug\FEMOG SUITE.pdb
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\bin\Debug\FEMOG SUITE.xml
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.admin1.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.DHP2.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.DHP3.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Dialog1.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.ENT3.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Form1.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Form2.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Form3.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Form4.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Form5.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Form6.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Form7.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Form8.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Form9.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.GNDP1.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.GNDP2.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.SPDP1.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.SPDP2.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.VCDHP2.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.VCDHP3.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.VCENT3.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.VCGNDP1.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.VCGNDP2.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.VCSPDP1.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.VCSPDP2.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.ve.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.VCM.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.LoginForm1.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.Resources.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.sdss1.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.spscrn1.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc1.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc10.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc11.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc12.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc2.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc3.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc4.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc5.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc6.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc7.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc8.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vc9.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vp1.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vp2.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vp3.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vp4.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vp5.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vp6.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vp7.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vp8.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\election_app.vp9.resources
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\ELECTION APP.vbproj.GenerateResource.Cache
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\FEMOG SUITE.TrustInfo.xml
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\FEMOG SUITE.exe.manifest
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\FEMOG SUITE.application
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\FEMOG SUITE.exe
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\FEMOG SUITE.xml
+C:\Users\levno\Desktop\ELECTION APP\ELECTION APP\obj\x86\Debug\FEMOG SUITE.pdb
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\bin\Debug\FEMOG SUITE.exe.config
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\Interop.SSCE.dll
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\ELECTION APP.vbproj.ResolveComReference.cache
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\FEMOG SUITE.xml
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\x86\Debug\FEMOG SUITE.pdb

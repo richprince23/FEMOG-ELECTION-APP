@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ChildForm>
+  <Control Type="System.Windows.Forms.TextBox" Name="TextBox6">
+    <Text>...</Text>
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.TextBox" Name="TextBox3">
+    <Text>...</Text>
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.TextBox" Name="TextBox5">
+    <Text>...</Text>
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.TextBox" Name="TextBox4">
+    <Text>...</Text>
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.TextBox" Name="TextBox2">
+    <Text>...</Text>
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.TextBox" Name="TextBox1">
+    <Text>1</Text>
+    <Visible>True</Visible>
+  </Control>
+</ChildForm>

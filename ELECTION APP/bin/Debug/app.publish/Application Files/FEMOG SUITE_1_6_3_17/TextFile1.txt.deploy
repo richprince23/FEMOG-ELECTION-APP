@@ -1,0 +1,445 @@
+﻿>>>DESIGN
+>>FORM BORDERSTYLE= NONE
+*MINIMIZE BUTT
+*MAXIMIZE
+*CLOSE
+*HIDE
+>>> VOTE COUNTER
+>>SUB PANEL for aspirant selection
+>labels for names and vote count
+>>>VOTING PANEL
+
+>>>>CATEGORIES<<<<
+SRC PRESIDEBT
+MEN'S
+WOMEN'S
+WOCOM
+SEC
+TRES
+DHP
+ENTERPEE M
+ENTPEE W
+SPORTS M
+SPORTS W
+GENERAL M
+GENERAL W
+
+add this to vp children
+
+If ComboBox1.Text = "" Then
+            MsgBox("please Choose No. Of Aspirants", MsgBoxStyle.Critical)
+        End If
+
+With ComboBox1
+            If .Text = "5" Then
+                Button7.Visible = False
+                Button6.Visible = True
+                Button5.Visible = True
+                Button4.Visible = True
+                Button3.Visible = True
+                Button2.Visible = True
+                TextBox6.Visible = False
+                TextBox5.Visible = True
+                TextBox4.Visible = True
+                TextBox3.Visible = True
+                TextBox2.Visible = True
+                TextBox1.Visible = True
+            ElseIf .Text = "4" Then
+                Button7.Visible = False
+                Button6.Visible = False
+                Button5.Visible = True
+                Button4.Visible = True
+                Button3.Visible = True
+                Button2.Visible = True
+                TextBox6.Visible = False
+                TextBox5.Visible = False
+                TextBox4.Visible = True
+                TextBox3.Visible = True
+                TextBox2.Visible = True
+                TextBox1.Visible = True
+            ElseIf .Text = "3" Then
+                Button7.Visible = False
+                Button6.Visible = False
+                Button5.Visible = False
+                Button4.Visible = True
+                Button3.Visible = True
+                Button2.Visible = True
+                TextBox6.Visible = False
+                TextBox5.Visible = False
+                TextBox4.Visible = False
+                TextBox3.Visible = True
+                TextBox2.Visible = True
+                TextBox1.Visible = True
+            ElseIf .Text = "2" Then
+                Button7.Visible = False
+                Button6.Visible = False
+                Button5.Visible = False
+                Button4.Visible = False
+                Button3.Visible = True
+                Button2.Visible = True
+                TextBox6.Visible = False
+                TextBox5.Visible = False
+                TextBox4.Visible = False
+                TextBox3.Visible = False
+                TextBox2.Visible = True
+                TextBox1.Visible = True
+            ElseIf .Text = "1" Then
+                Button7.Visible = False
+                Button6.Visible = False
+                Button5.Visible = False
+                Button4.Visible = False
+                Button3.Visible = False
+                Button2.Visible = True
+                TextBox6.Visible = False
+                TextBox5.Visible = False
+                TextBox4.Visible = False
+                TextBox3.Visible = False
+                TextBox2.Visible = False
+                TextBox1.Visible = True
+            End If
+        End With
+
+
+ With Form2.ComboBox1
+            If .Text = "5" Then
+                Label1.Visible = True
+                Label2.Visible = True
+                Label3.Visible = True
+                Label4.Visible = True
+                Label5.Visible = True
+                Label6.Visible = False
+            ElseIf .Text = "4" Then
+                Label1.Visible = True
+                Label2.Visible = True
+                Label3.Visible = True
+                Label4.Visible = True
+                Label5.Visible = False
+                Label6.Visible = False
+            ElseIf .Text = "3" Then
+                Label1.Visible = True
+                Label2.Visible = True
+                Label3.Visible = True
+                Label4.Visible = False
+                Label5.Visible = False
+                Label6.Visible = False
+            ElseIf .Text = "2" Then
+                Label1.Visible = True
+                Label2.Visible = True
+                Label3.Visible = False
+                Label4.Visible = False
+                Label5.Visible = False
+                Label6.Visible = False
+            ElseIf .Text = "1" Then
+                Label1.Visible = True
+                Label2.Visible = False
+                Label3.Visible = False
+                Label4.Visible = False
+                Label5.Visible = False
+                Label6.Visible = False
+            End If
+        End With
+
+>>ADD Linklabels to pics for image selection
+filter
+"JPEG(*.jpeg)|*.jpeg|Bitmap(*.bmp)|*.bmp|PNG(*.png)|*.png"
+
+>>>pic loading
+
+ Try
+            Dim pic As String = OpenFileDialog1.FileName
+            With OpenFileDialog1
+                .Title = "Choose Picture"
+                .Filter = "JPEG(*.jpg)|*.jpg|Bitmap(*.bmp)|*.bmp|PNG(*.png)|*.png"
+                .FileName = ""
+            End With
+            Dim kk As Integer = OpenFileDialog1.ShowDialog()
+            If kk <> DialogResult.Cancel Then
+                pic = OpenFileDialog1.FileName
+                PictureBox1.Image = Image.FromFile(pic)
+                OpenFileDialog1.Reset()
+            End If
+        Catch ex As Exception
+        End Try
+
+	>>>>>	all pic loading
+
+		Private Sub LinkLabel2_LinkClicked(ByVal sender As System.Object, ByVal e As System.Windows.Forms.LinkLabelLinkClickedEventArgs) Handles LinkLabel2.LinkClicked
+        Try
+            Dim pic As String = OpenFileDialog1.FileName
+            With OpenFileDialog1
+                .Title = "Choose Picture"
+                .Filter = "JPEG(*.jpg)|*.jpg|Bitmap(*.bmp)|*.bmp|PNG(*.png)|*.png"
+                .FileName = ""
+            End With
+            Dim kk As Integer = OpenFileDialog1.ShowDialog()
+            If kk <> DialogResult.Cancel Then
+                pic = OpenFileDialog1.FileName
+                PictureBox1.Image = Image.FromFile(pic)
+                OpenFileDialog1.Reset()
+            End If
+        Catch ex As Exception
+        End Try
+    End Sub
+
+    Private Sub LinkLabel3_LinkClicked(ByVal sender As System.Object, ByVal e As System.Windows.Forms.LinkLabelLinkClickedEventArgs) Handles LinkLabel3.LinkClicked
+        Try
+            Dim pic As String = OpenFileDialog1.FileName
+            With OpenFileDialog1
+                .Title = "Choose Picture"
+                .Filter = "JPEG(*.jpg)|*.jpg|Bitmap(*.bmp)|*.bmp|PNG(*.png)|*.png"
+                .FileName = ""
+            End With
+            Dim kk As Integer = OpenFileDialog1.ShowDialog()
+            If kk <> DialogResult.Cancel Then
+                pic = OpenFileDialog1.FileName
+                PictureBox2.Image = Image.FromFile(pic)
+                OpenFileDialog1.Reset()
+            End If
+        Catch ex As Exception
+        End Try
+    End Sub
+
+    Private Sub LinkLabel4_LinkClicked(ByVal sender As System.Object, ByVal e As System.Windows.Forms.LinkLabelLinkClickedEventArgs) Handles LinkLabel4.LinkClicked
+        Try
+            Dim pic As String = OpenFileDialog1.FileName
+            With OpenFileDialog1
+                .Title = "Choose Picture"
+                .Filter = "JPEG(*.jpg)|*.jpg|Bitmap(*.bmp)|*.bmp|PNG(*.png)|*.png"
+                .FileName = ""
+            End With
+            Dim kk As Integer = OpenFileDialog1.ShowDialog()
+            If kk <> DialogResult.Cancel Then
+                pic = OpenFileDialog1.FileName
+                PictureBox3.Image = Image.FromFile(pic)
+                OpenFileDialog1.Reset()
+            End If
+        Catch ex As Exception
+        End Try
+    End Sub
+
+    Private Sub LinkLabel5_LinkClicked(ByVal sender As System.Object, ByVal e As System.Windows.Forms.LinkLabelLinkClickedEventArgs) Handles LinkLabel5.LinkClicked
+        Try
+            Dim pic As String = OpenFileDialog1.FileName
+            With OpenFileDialog1
+                .Title = "Choose Picture"
+                .Filter = "JPEG(*.jpg)|*.jpg|Bitmap(*.bmp)|*.bmp|PNG(*.png)|*.png"
+                .FileName = ""
+            End With
+            Dim kk As Integer = OpenFileDialog1.ShowDialog()
+            If kk <> DialogResult.Cancel Then
+                pic = OpenFileDialog1.FileName
+                PictureBox4.Image = Image.FromFile(pic)
+                OpenFileDialog1.Reset()
+            End If
+        Catch ex As Exception
+        End Try
+    End Sub
+
+    Private Sub LinkLabel6_LinkClicked(ByVal sender As System.Object, ByVal e As System.Windows.Forms.LinkLabelLinkClickedEventArgs) Handles LinkLabel6.LinkClicked
+        Try
+            Dim pic As String = OpenFileDialog1.FileName
+            With OpenFileDialog1
+                .Title = "Choose Picture"
+                .Filter = "JPEG(*.jpg)|*.jpg|Bitmap(*.bmp)|*.bmp|PNG(*.png)|*.png"
+                .FileName = ""
+            End With
+            Dim kk As Integer = OpenFileDialog1.ShowDialog()
+            If kk <> DialogResult.Cancel Then
+                pic = OpenFileDialog1.FileName
+                PictureBox5.Image = Image.FromFile(pic)
+                OpenFileDialog1.Reset()
+            End If
+        Catch ex As Exception
+        End Try
+    End Sub
+
+    Private Sub LinkLabel7_LinkClicked(ByVal sender As System.Object, ByVal e As System.Windows.Forms.LinkLabelLinkClickedEventArgs) Handles LinkLabel7.LinkClicked
+        Try
+            Dim pic As String = OpenFileDialog1.FileName
+            With OpenFileDialog1
+                .Title = "Choose Picture"
+                .Filter = "JPEG(*.jpg)|*.jpg|Bitmap(*.bmp)|*.bmp|PNG(*.png)|*.png"
+                .FileName = ""
+            End With
+            Dim kk As Integer = OpenFileDialog1.ShowDialog()
+            If kk <> DialogResult.Cancel Then
+                pic = OpenFileDialog1.FileName
+                PictureBox6.Image = Image.FromFile(pic)
+                OpenFileDialog1.Reset()
+            End If
+        Catch ex As Exception
+        End Try
+    End Sub
+
+
+>>> 	LINK(CHOOSE PIC) VISIBILTY  _OFF
+
+	  LinkLabel2.Visible = False
+        LinkLabel3.Visible = False
+        LinkLabel4.Visible = False
+        LinkLabel5.Visible = False
+        LinkLabel6.Visible = False
+        LinkLabel7.Visible = False
+
+		VISIBILTY ON
+
+		LinkLabel2.Visible = True
+        LinkLabel3.Visible = True
+        LinkLabel4.Visible = True
+        LinkLabel5.Visible = True
+        LinkLabel6.Visible = True
+        LinkLabel7.Visible = True
+......................................................................................................
+>>>>    ADMIN ACCOUNTS
+		>LOGIN
+		>SIGN UP
+
+		>>>VOTE BUTTONS
+		>VOTE COUNTERS
+
+VOTE BUTTONS CURSOR STYLE
+VOTE COUNTER BUTTONS CURSOR STYLE
+
+....................................
+	names loading from parents
+
+	 With vp9
+		    .Label1.Text = TextBox1.Text
+            .Label2.Text = TextBox2.Text
+            .Label3.Text = TextBox3.Text
+            .Label4.Text = TextBox4.Text
+            .Label5.Text = TextBox5.Text
+            .Label6.Text = TextBox6.Text
+        End With
+
+.....................................
+>>>>VOTE COUNTING
+
+Dim c1 As Double = 0
+        c1 = c1 + 1
+        vp9.Label8.Text = c1
+        Me.Hide()
+        Form2.Show()
+
+MAIN VOTE BUTTONS
+
+		    Private Sub Button2_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button2.Click
+        ca1 = ca1 + 1
+        vc1.Label8.Text = ca1
+        Me.Hide()
+        Form3.Show()
+    End Sub
+
+    Private Sub Button7_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button7.Click
+        ca6 = ca6 + 1
+        vc1.Label13.Text = ca6
+        Me.Hide()
+        Form3.Show()
+    End Sub
+
+    Private Sub Button6_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button6.Click
+        ca5 = ca5 + 1
+        vc1.Label12.Text = ca5
+        Me.Hide()
+        Form3.Show()
+    End Sub
+
+    Private Sub Button5_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button5.Click
+        ca4 = ca4 + 1
+        vc1.Label11.Text = ca4
+        Me.Hide()
+        Form3.Show()
+    End Sub
+
+    Private Sub Button4_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button4.Click
+        ca3 = ca3 + 1
+        vc1.Label10.Text = ca3
+        Me.Hide()
+        Form3.Show()
+    End Sub
+
+    Private Sub Button3_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button3.Click
+        ca2 = ca2 + 1 
+        vc1.Label9.Text = ca2
+        Me.Hide()
+        Form3.Show()
+    End Sub
+
+	>>>combobox1 error correction
+
+	>>>PictureBox image style correction =  increase and stretch
+
+	>>> textbox length  (increase)
+............................................................................................
+linklabel =menustrip hide/show
+vote counters rename, formborderstyle= none,minize orhide mode
+REGISTER APLICANTS MODE= 
+*>> at form load: vote buttons visble = false *
+>> close button enable
+
+>>>>>>accounts 
+>>Label2.Text = TextBox1.Text
+            GroupBox1.Visible = False
+            Button1.Visible = True
+            Button2.Visible = True
+            Button4.Visible = True
+            Button7.Visible = True
+            Button8.Visible = True
+
+
+
+first registration count methoud
+
+        '//generate id no.'
+       
+        If Label4.Text = C1 Then
+            Label12.Text = AA
+            ListBox1.Items.Add(TextBox1.Text & "         " & TextBox2.Text & "               " & ComboBox1.Text & TextBox4.Text & C1S)
+        Else
+            Label12.Text = BB
+            ListBox1.Items.Add(TextBox1.Text & "         " & TextBox2.Text & "               " & ComboBox1.Text & TextBox4.Text & C2S)
+        End If
+        '//count registered
+        rc = ListBox1.Items.Count
+        Label18.Text = rc
+
+        ComboBox1.Text = ""
+        TextBox1.Text = ""
+        TextBox2.Text = ""
+        TextBox3.Text = ""
+        TextBox4.Text = ""
+        ComboBox2.Text = ""
+        Label12.Text = ""
+        Label4.Text = ""
+
+
+
+		form6
+		Public Class Form6
+
+    Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
+        'selecting typed name
+
+        If ListBox1.Items.Contains(TextBox1.Text) Then
+            MsgBox("Voter ID exists!", MsgBoxStyle.Information)
+            ListBox1.SelectedItem = TextBox1.Text
+        Else
+            MsgBox("Voter ID does not exist!", MsgBoxStyle.Exclamation)
+        End If
+
+    End Sub
+
+    Private Sub Form6_FormClosing(ByVal sender As Object, ByVal e As System.Windows.Forms.FormClosingEventArgs) Handles Me.FormClosing
+        Dim strwtr2 As New IO.StreamWriter(idnos)
+        For Each id In ListBox1.Items
+            strwtr2.WriteLine(id)
+        Next
+        strwtr2.Close()
+    End Sub
+
+    Private Sub Form6_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+        If IO.File.Exists(idnos) Then
+            ListBox1.Items.AddRange(IO.File.ReadAllLines(idnos))
+        End If
+    End Sub
+End Class

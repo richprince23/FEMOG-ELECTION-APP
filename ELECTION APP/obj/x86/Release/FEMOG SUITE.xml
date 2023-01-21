@@ -1,0 +1,236 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+FEMOGSUITE
+</name>
+</assembly>
+<members>
+<member name="T:election_app.regDataSet1.loginDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:election_app.regDataSet1.loginRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:election_app.regDataSet1.loginRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:election_app.regDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:election_app.regDataSet1TableAdapters.loginTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:election_app.regDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(election_app.regDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:election_app.regDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(election_app.regDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:election_app.regDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(election_app.regDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:election_app.regDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:election_app.regDataSet1TableAdapters.TableAdapterManager.UpdateAll(election_app.regDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:election_app.regDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:election_app.regDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:election_app.regDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:election_app.regDataSet4.dataDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:election_app.regDataSet4.dataRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:election_app.regDataSet4.dataRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:election_app.regDataSet4">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:election_app.regDataSet4TableAdapters.dataTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:election_app.regDataSet4TableAdapters.TableAdapterManager.UpdateUpdatedRows(election_app.regDataSet4,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:election_app.regDataSet4TableAdapters.TableAdapterManager.UpdateInsertedRows(election_app.regDataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:election_app.regDataSet4TableAdapters.TableAdapterManager.UpdateDeletedRows(election_app.regDataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:election_app.regDataSet4TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:election_app.regDataSet4TableAdapters.TableAdapterManager.UpdateAll(election_app.regDataSet4)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:election_app.regDataSet4TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:election_app.regDataSet4TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:election_app.regDataSet4TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:election_app.regDataSet3.dataDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:election_app.regDataSet3.dataRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:election_app.regDataSet3.dataRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:election_app.regDataSet3">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:election_app.regDataSet3TableAdapters.dataTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:election_app.regDataSet3TableAdapters.TableAdapterManager.UpdateUpdatedRows(election_app.regDataSet3,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:election_app.regDataSet3TableAdapters.TableAdapterManager.UpdateInsertedRows(election_app.regDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:election_app.regDataSet3TableAdapters.TableAdapterManager.UpdateDeletedRows(election_app.regDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:election_app.regDataSet3TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:election_app.regDataSet3TableAdapters.TableAdapterManager.UpdateAll(election_app.regDataSet3)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:election_app.regDataSet3TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:election_app.regDataSet3TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:election_app.regDataSet3TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:election_app.regDataSet2.dataDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:election_app.regDataSet2.dataRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:election_app.regDataSet2.dataRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:election_app.regDataSet2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:election_app.regDataSet2TableAdapters.dataTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:election_app.regDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(election_app.regDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:election_app.regDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(election_app.regDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:election_app.regDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(election_app.regDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:election_app.regDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:election_app.regDataSet2TableAdapters.TableAdapterManager.UpdateAll(election_app.regDataSet2)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:election_app.regDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:election_app.regDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:election_app.regDataSet2TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:election_app.regDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="P:election_app.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:election_app.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:election_app.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

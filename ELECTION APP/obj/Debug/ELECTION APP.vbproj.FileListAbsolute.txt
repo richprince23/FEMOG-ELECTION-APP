@@ -1,0 +1,138 @@
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\bin\Debug\FEMOG SUITE.exe.config
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.admin1.resources
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.DHP2.resources
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.DHP3.resources
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.Dialog1.resources
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.ENT3.resources
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.Form1.resources
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.Form2.resources
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.Form3.resources
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.Form4.resources
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.Form5.resources
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.Form6.resources
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.Form7.resources
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.Form8.resources
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.Form9.resources
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.GNDP1.resources
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.GNDP2.resources
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.SPDP1.resources
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.SPDP2.resources
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.VCDHP2.resources
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.VCDHP3.resources
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.VCENT3.resources
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.VCGNDP1.resources
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.VCGNDP2.resources
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.VCSPDP1.resources
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.VCSPDP2.resources
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.ve.resources
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.VCM.resources
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.Resources.resources
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.sdss1.resources
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.spscrn1.resources
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.vc1.resources
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.vc10.resources
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.vc11.resources
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.vc12.resources
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.vc2.resources
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.vc3.resources
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.vc4.resources
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.vc5.resources
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.vc6.resources
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.vc7.resources
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.vc8.resources
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.vc9.resources
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.vp1.resources
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.vp2.resources
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.vp3.resources
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.vp4.resources
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.vp5.resources
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.vp6.resources
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.vp7.resources
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.vp8.resources
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.vp9.resources
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\GenerateResource.read.1.tlog
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\GenerateResource.write.1.tlog
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\bin\Debug\FEMOG SUITE.exe.manifest
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\bin\Debug\FEMOG SUITE.application
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\bin\Debug\FEMOG SUITE.exe
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\bin\Debug\FEMOG SUITE.pdb
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\bin\Debug\FEMOG SUITE.xml
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\FEMOG SUITE.TrustInfo.xml
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\FEMOG SUITE.exe.manifest
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\FEMOG SUITE.application
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\FEMOG SUITE.exe
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\FEMOG SUITE.xml
+D:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\FEMOG SUITE.pdb
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\bin\Debug\FEMOG SUITE.exe.config
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\FEMOG SUITE.exe
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\FEMOG SUITE.xml
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\FEMOG SUITE.pdb
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\ResolveAssemblyReference.cache
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.admin1.resources
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.DHP2.resources
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.DHP3.resources
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.Dialog1.resources
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.ENT3.resources
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.Form1.resources
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.Form2.resources
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.Form3.resources
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.Form4.resources
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.Form5.resources
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.Form6.resources
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.Form7.resources
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.Form8.resources
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.Form9.resources
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.GNDP1.resources
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.GNDP2.resources
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.SPDP1.resources
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.SPDP2.resources
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.VCDHP2.resources
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.VCDHP3.resources
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.VCENT3.resources
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.VCGNDP1.resources
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.VCGNDP2.resources
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.VCSPDP1.resources
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.VCSPDP2.resources
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.ve.resources
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.VCM.resources
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.Resources.resources
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.sdss1.resources
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.spscrn1.resources
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.vc1.resources
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.vc10.resources
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.vc11.resources
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.vc12.resources
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.vc2.resources
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.vc3.resources
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.vc4.resources
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.vc5.resources
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.vc6.resources
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.vc7.resources
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.vc8.resources
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.vc9.resources
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.vp1.resources
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.vp2.resources
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.vp3.resources
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.vp4.resources
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.vp5.resources
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.vp6.resources
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.vp7.resources
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.vp8.resources
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\election_app.vp9.resources
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\GenerateResource.read.1.tlog
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\GenerateResource.write.1.tlog
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\bin\Debug\FEMOG SUITE.exe.manifest
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\bin\Debug\FEMOG SUITE.application
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\bin\Debug\FEMOG SUITE.exe
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\bin\Debug\FEMOG SUITE.pdb
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\bin\Debug\FEMOG SUITE.xml
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\FEMOG SUITE.TrustInfo.xml
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\FEMOG SUITE.exe.manifest
+F:\PROJECTS\Projects\ELECTION APP\ELECTION APP\obj\Debug\FEMOG SUITE.application
+D:\RICHPRINCE SYSTEMS INC\PROJECTS\Projects\ELECTION APP - Copy (2)\ELECTION APP\bin\Debug\FEMOG SUITE.exe.config
+D:\RICHPRINCE SYSTEMS INC\PROJECTS\Projects\ELECTION APP - Copy (2)\ELECTION APP\obj\Debug\Interop.SSCE.dll
+D:\RICHPRINCE SYSTEMS INC\PROJECTS\Projects\ELECTION APP - Copy (2)\ELECTION APP\obj\Debug\ELECTION APP.vbproj.ResolveComReference.cache
+D:\RICHPRINCE SYSTEMS INC\PROJECTS\Projects\ELECTION APP - Copy (2)\ELECTION APP\obj\Debug\FEMOG SUITE.exe
+D:\RICHPRINCE SYSTEMS INC\PROJECTS\Projects\ELECTION APP - Copy (2)\ELECTION APP\obj\Debug\FEMOG SUITE.xml
+D:\RICHPRINCE SYSTEMS INC\PROJECTS\Projects\ELECTION APP - Copy (2)\ELECTION APP\obj\Debug\FEMOG SUITE.pdb

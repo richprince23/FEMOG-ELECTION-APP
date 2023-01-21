@@ -1,0 +1,65 @@
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\bin\Release\FEMOG SUITE.exe.config
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\ELECTION APP.vbprojResolveAssemblyReference.cache
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\election_app.admin1.resources
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\election_app.DHP2.resources
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\election_app.DHP3.resources
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\election_app.Dialog1.resources
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\election_app.ENT3.resources
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\election_app.Form1.resources
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\election_app.Form2.resources
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\election_app.Form3.resources
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\election_app.Form4.resources
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\election_app.Form5.resources
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\election_app.Form6.resources
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\election_app.Form7.resources
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\election_app.Form8.resources
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\election_app.Form9.resources
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\election_app.GNDP1.resources
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\election_app.GNDP2.resources
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\election_app.SPDP1.resources
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\election_app.SPDP2.resources
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\election_app.VCDHP2.resources
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\election_app.VCDHP3.resources
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\election_app.VCENT3.resources
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\election_app.VCGNDP1.resources
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\election_app.VCGNDP2.resources
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\election_app.VCSPDP1.resources
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\election_app.VCSPDP2.resources
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\election_app.ve.resources
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\election_app.VCM.resources
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\election_app.Resources.resources
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\election_app.sdss1.resources
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\election_app.spscrn1.resources
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\election_app.vc1.resources
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\election_app.vc10.resources
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\election_app.vc11.resources
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\election_app.vc12.resources
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\election_app.vc2.resources
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\election_app.vc3.resources
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\election_app.vc4.resources
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\election_app.vc5.resources
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\election_app.vc6.resources
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\election_app.vc7.resources
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\election_app.vc8.resources
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\election_app.vc9.resources
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\election_app.vp1.resources
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\election_app.vp2.resources
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\election_app.vp3.resources
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\election_app.vp4.resources
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\election_app.vp5.resources
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\election_app.vp6.resources
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\election_app.vp7.resources
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\election_app.vp8.resources
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\election_app.vp9.resources
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\ELECTION APP.vbproj.GenerateResource.Cache
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\FEMOG SUITE.TrustInfo.xml
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\FEMOG SUITE.exe.manifest
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\FEMOG SUITE.exe
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\FEMOG SUITE.xml
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\FEMOG SUITE.pdb
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\bin\Release\FEMOG SUITE.exe.manifest
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\bin\Release\FEMOG SUITE.application
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\bin\Release\FEMOG SUITE.exe
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\bin\Release\FEMOG SUITE.pdb
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\bin\Release\FEMOG SUITE.xml
+C:\Users\R-STUDIO\Documents\Visual Studio 2012\Projects\ELECTION APP\ELECTION APP\obj\Release\FEMOG SUITE.application
